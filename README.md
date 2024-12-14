@@ -1,4 +1,4 @@
-# Marp AI - Generate slides using Ollama AI
+# Marp AI - Generate slides using Ollama AI and Marp
 
 >This is just a simple proof of concept to generate slides using Ollama AI.
 
